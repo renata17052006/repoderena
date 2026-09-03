@@ -4,19 +4,24 @@
   schematypens="http://relaxng.org/ns/structure/1.0"
   type="application/xml"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
+
     <teiHeader> 
+
         <fileDesc>
             <titleStmt>
                 <title xml:id="llc_exordio">Fragmento de El lazarillo de ciegos caminantes - Exordio</title>
                 <author>Alonso Carrió de la Vandera</author>
-                <editor resp="digital">Gabriel Calarco</editor>  
+                <editor resp="digital">Gabriel Calarco</editor> 
              </titleStmt>
+
             <publicationStmt>
                 <publisher>Nombre de la asignatura</publisher>
                 <availability>
                     <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
                 </availability>
             </publicationStmt>
+         
+
             <sourceDesc>
             <bibl>
                 <title> El lazarillo de ciegos caminantes desde Buenos Aires, hasta Lima con sus itinerarios según la más puntual observación, con algunas noticias útiles a los Nuevos Comerciantes que tratan en Mulas ; y otras históricas / sacado de las memorias que hizo Don Alonso Carrió de la Vandera en este dilatado viaje....; por Don Calixto Bustamante Carlos Inca, alias Concolorcorvo natural de Cuzco.</title>
@@ -33,6 +38,9 @@
             </sourceDesc>
         </fileDesc>
     </teiHeader>
+
+
+
 
         <text>
             <body>

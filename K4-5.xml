@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+
+ <teiHeader> 
+
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="llc_exordio">Fragmento de El lazarillo de ciegos caminantes - Exordio</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <editor resp="digital">Renata Patti</editor> 
+             </titleStmt>
+
+
+            <publicationStmt>
+                <publisher>Nombre de la asignatura</publisher>
+                <availability>
+                    <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+         
+
+            <sourceDesc>
+            <bibl>
+                <title> El lazarillo de ciegos caminantes desde Buenos Aires, hasta Lima con sus itinerarios según la más puntual observación, con algunas noticias útiles a los Nuevos Comerciantes que tratan en Mulas ; y otras históricas / sacado de las memorias que hizo Don Alonso Carrió de la Vandera en este dilatado viaje....; por Don Calixto Bustamante Carlos Inca, alias Concolorcorvo natural de Cuzco.</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <publisher>Imprenta de la Rovada</publisher> 
+                <date>1773</date>
+                <pubPlace>Lima, Perú</pubPlace>
+                <objectIdentifier>   
+                    <institution>Biblioteca Nacional (España)</institution>
+                    <idno>sig. R/22795</idno>
+             
+                </objectIdentifier>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+
+
+
+        <text>
+            <body>
+
+<pb n="k4"/>
+
+<p> A la entrada de esta jurisdicción observé en el camino real muchos hilos blancos de distinto grueso, entretejidos en los aromos, y otros a distancia de más de ocho varas, que son tan delgados y sutiles que sólo se percibían con el reflejo del sol. Todos muy iguales, lisos y sin goma alguna, y tan resplandecientes como el más sutil hilo de plata. Reparé que unos animalitos en figura y color de un escarabajo chico caminaban sobre ellos con suma velocidad. Me apeé varias veces para observarles su movimiento y reparé que si por contingencia alguno de ellos era más tardo en la carrera, sin estorbarle su curso ni detenerle, daban estos diestros <note xml:id="k4n1">funámbulos</note> una vuelta por debajo, semejante a la que hacen los marineros que quieren adelantarse a otros para las maniobras que se hacen en las vergas de los navíos. Procuré hacer algún ruido para ver si estos animalitos se asustaban y detenían su curso, y sólo conseguí que lo aceleraran más. En los hilos dilatados he visto algunos animalitos muertos en la figura de una araña común, colgados de las patitas y del color de un camarón <note xml:id="k4n2">sancochado</note>. No he podido percibir si de los vivientes salía sustancia alguna para engrosar aquel hilo. Cogí algunos <pb n="k5"/> y enrollándolos en un palito reconocí tenían suficiente fortaleza para esta operación. </p>
+
+<p><persName key="luisaguilar">Don Luis de Aguilar</persName>, criollo y vecino de <placeName key="smtucuman">San Miguel</placeName>, quien nos condujo en sus carretas desde <placeName key="cordoba">Córdoba</placeName> a <placeName key="salta">Salta</placeName>, español de muy buena instrucción y observaciones, me dijo que aquellos animalitos eran las arañas que producían la seda, lo que confirmó, además del dicho de otros, <persName key="jshelguero">don Juan Silvestre Helguero</persName>, residente y dueño de la hacienda de Tapia y maestro de postas, sujeto de extraordinaria fuerza y valor y acostumbrado a penetrar los montes del <placeName key="tucuman">Tucumán</placeName>, quien añadió que eran tantos los hilos imperceptibles que se encontraban en aquellos montes que sólo se sentían al tropezar con ellos con el rostro y ojos. Con estas advertencias, no solamente yo, sino los que me acompañaban, pusimos más cuidado y algunas veces, aunque a poca distancia, internábamos al monte, y ya veíamos dilatados hilos, ya árboles enredados de ellos; algunas veces ramas solas bordadas de exquisitas labores de un hilo muy sutil, que serían dignas de presentarse a un príncipe si las hojas no llegaran a secarse y perder la delicada figura. Hemos visto nido grande de pájaro bordado todo de esta </p>
+
+</body>
+</text>
+</TEI>
+
